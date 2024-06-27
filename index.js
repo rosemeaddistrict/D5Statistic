@@ -30,7 +30,7 @@ content = "<a>第五排</a>"
 link = "https://forms.gle/gczdyypkbCNATAat9"
 elem = '.div1 > h3 > ul > .p5'
 updatePointContent(elem, ti, content, link)
-content = "<a>统计结果检视</a>"
+content = "<a>检视结果</a>"
 link = "https://docs.google.com/spreadsheets/d/1r1x8zUNfLKnZ5kVxvOLfX2uq5Ym32Dv9gJE5Vjd2ho8/edit?usp=sharing"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
@@ -38,32 +38,3 @@ content = "<a>大區名單</a>"
 link = "https://docs.google.com/spreadsheets/d/1_sALkdIkIDViiGgZPVWw7JoSZjNPmrnoF9bxjqPNfu8/edit?usp=sharing"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
-
-/*
-<li>登记表
-            <ul><br>
-                <li>
-                    <a href="https://forms.gle/WzbacvGJ3Ef7G9JB9">第一排</a>
-                </li>
-                <li>
-                    <a href="https://forms.gle/zkHFzhXgiaNCDx9k9">第二排</a>
-                </li>
-                <li>
-                    <a href="https://forms.gle/i2PTaoYj7vT3RhFU7">第三排</a>
-                </li>
-                <li>
-                    <a href="https://forms.gle/mruMH6JpughF1rrU6">第四排</a>
-                </li>
-                <li>
-                    <a href="https://forms.gle/gczdyypkbCNATAat9">第五排</a>
-                </li>    
-            </ul>
-        </li><br>
-        <li>
-            <a href="https://docs.google.com/spreadsheets/d/1r1x8zUNfLKnZ5kVxvOLfX2uq5Ym32Dv9gJE5Vjd2ho8/edit?usp=sharing">统计结果检视</a>
-        </li><br>
-        <li>
-            <a href="https://docs.google.com/spreadsheets/d/1_sALkdIkIDViiGgZPVWw7JoSZjNPmrnoF9bxjqPNfu8/edit?usp=sharing">大區名單</a>
-        </li>
-
-        */
