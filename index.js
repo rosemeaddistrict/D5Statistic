@@ -31,7 +31,7 @@ link = "https://forms.gle/gczdyypkbCNATAat9"
 elem = '.div1 > h3 > ul > .p5'
 updatePointContent(elem, ti, content, link)
 content = "<a>检视结果</a>"
-link = "https://docs.google.com/spreadsheets/d/1r1x8zUNfLKnZ5kVxvOLfX2uq5Ym32Dv9gJE5Vjd2ho8/edit?usp=sharing"
+link = "http://chenin0423.synology.me:5000/"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>大區名單</a>"
