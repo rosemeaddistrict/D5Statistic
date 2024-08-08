@@ -35,6 +35,6 @@ link = "https://chenin0423.synology.me:5001/"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>大區名單</a>"
-link = "https://docs.google.com/spreadsheets/d/1_sALkdIkIDViiGgZPVWw7JoSZjNPmrnoF9bxjqPNfu8/edit?usp=sharing"
+link = "https://chenin0423.synology.me:6001/"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
