@@ -31,7 +31,7 @@ link = "https://forms.gle/gczdyypkbCNATAat9"
 elem = '.div1 > h3 > ul > .p5'
 updatePointContent(elem, ti, content, link)
 content = "<a>检视结果</a>"
-link = "http://chenin0423.synology.me:5000/"
+link = "https://chenin0423.synology.me:5001/"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>大區名單</a>"
