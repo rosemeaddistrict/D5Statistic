@@ -38,7 +38,7 @@ content = "<a>大區名單</a>"
 link = "https://chenin0423.synology.me:6001/"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
-content = "<a>祷告与交通</a>"
-link = "./burdens.html"
-elem = '.div4 > .sub'
-updatePointContent(elem, ti, content, link)
+// content = "<a>祷告与交通</a>"
+// link = "./burdens.html"
+// elem = '.div4 > .sub'
+// updatePointContent(elem, ti, content, link)
