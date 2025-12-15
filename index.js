@@ -35,7 +35,7 @@ link = "https://chenin0423.synology.me:5504/"
 elem = '.div2 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>大區名單</a>"
-link = "https://chenin0423.synology.me:6001/"
+link = "https://chenin0423.synology.me:9090/names/"
 elem = '.div3 > .sub'
 updatePointContent(elem, ti, content, link)
 content = "<a>祷告与交通</a>"
